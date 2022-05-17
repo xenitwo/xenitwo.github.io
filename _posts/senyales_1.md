@@ -1,6 +1,7 @@
-## **¿Que señal nos afecta? o ¿A qué señal tenemos que obedecer?**
-
-
+---
+layout: post
+title:¿Que señal nos afecta? o ¿A qué señal tenemos que obedecer?
+---
 
 |    ![](C:\Users\Usuario\OneDrive\Escritorio\imagen1.jpg)     | ![]()                                                        |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
