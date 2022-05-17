@@ -1,6 +1,6 @@
 ---
 layout: post
-title:¿Que señal nos afecta? o ¿A qué señal tenemos que obedecer?
+title: Señales!
 ---
 
 |    ![](C:\Users\Usuario\OneDrive\Escritorio\imagen1.jpg)     | ![]()                                                        |
